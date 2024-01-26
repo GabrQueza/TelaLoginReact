@@ -1,0 +1,20 @@
+.MuiInputBase-root.MuiFilledInput-root {
+    background-color: #202024;
+    color: #7C7C8A;
+}
+
+.MuiInputBase-root.MuiFilledInput-root.Mui-focused {
+    background-color: #202024;
+}
+
+.MuiInputBase-root.MuiFilledInput-root:hover {
+    background-color: #202024;
+}
+
+.MuiInputBase-root.MuiFilledInput-root:hover:not(.Mui-disabled, .Mui-error):before {
+    border-bottom: 1px solid #202024;
+}
+
+.MuiInputLabel-root.MuiInputLabel-animated {
+    color: #7C7C8A;
+}
